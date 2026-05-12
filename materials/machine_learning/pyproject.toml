@@ -1,0 +1,19 @@
+[project]
+name = "lecture_ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.4",
+    "scikit-learn>=1.8.0",
+    "pandas",
+    "notebook>=7.5.6",
+    "ipykernel>=7.2.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+]
