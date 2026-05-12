@@ -39,6 +39,3 @@
 - Transformer
 
 
-## TODO
-文字サイズを全体のCSSとして定義しておく
-
