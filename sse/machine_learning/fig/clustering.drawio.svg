@@ -1,0 +1,136 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="388px" height="360px" viewBox="-0.5 -0.5 388 360" content="&lt;mxfile&gt;&lt;diagram id=&quot;l7YPd3U8qvKjs7GiGDug&quot; name=&quot;Page-1&quot;&gt;5ZrbbuM2EIafxpdLcA48XW7S3e1Ni6Ip0GvVkm2hshXISpzk6TuMJdsyHayDJI0TO4BhDQ+S/o8zHJIZ0eX87keTXc9+q/OiGqHO70b0ywjREcp3NNyvDcAc1pZpU+adbWu4Kh+Kzqg7602ZF8tBxbauq7a8HhrH9WJRjNuBLWuaejWsNqmr4V2vs2mRGK7GWZVa/y7zdra2Bq+39l+Lcjrr7mxDVzDP+rqdYTnL8nq1Y6JvI7ps6rpd/5rfXRZV1K6XZd3u+xOlm+dqikV7TAP06xa3WXXTvVv3YO19/7LSQnSVi4vVrGyLq+tsHEtWglZss3ZeyRXIz0lZVZd1VTdyvagXscWybep/NxqxWPJsOSvyrkVTt1lb1ot4aeQ6ffzujW6Lpi3udkzd6/wo6nnRNvdSpS/1ViEjeW8CeK3JrnvohhohKGaN7FgbbR2vS1dbiqhBBU3krddB0EHXwWwHKGhWqB04gxyYiTsZs25cTTePtdVefnTyH0ZBkKAYV9lyKabLhImIIY9ykVXlNIo3Fr0Kkf0i6lTKOP3aFczLPI9tROmbRf6ou46k6kXbeRWaBBN0Nb5n87KKuv1Vzov4HL8XK/n+s55ni65KjzsvJtlN1Q7HwyvQJGcU4JCgMUoHvf1QglDiifI+xUasArycFNp3dZpXkBWDVmy08V7kxMAwdBIIoMADOk9MaEmbVGIblPgIITOKGzlyB7yErHJOOnMG2Ae2L5f+GOUX+dcY4qNbRP8px0PB07H+pKBFPpgGUjl3BDE6FaC3NUUlYe52OHkckqG7wx91KU+yDWmsB3iYvNISpySIgSFBOOxwWd8046LrYzf273Ur/BX55/TcZs20aJOeH6FtVDmKoztTjsoaIA2irziG50R864ggGKtl3uld6rlc94cLaP1WGF87e7jq2i3rKt5iEBxHMqfr+Jewp41lL5C+fToh4ionGYNMVBoN9ch20wmrtEHNIYD2jiRZSMfXYx1wgSTmkpVqLw+U4dOTkYRJeSJ2JpDx6MNw0HtW1sr8FHzQ4NDbUyHTr2E+MxqZWZwHRiszSTCGh4EOLSqZWxwAoUMpPhk0aQr+6dAYUCSiA5H1wVPYi2ekFRofZMVqJdwxpZnfe7HBN2LzUE4fsumXqnyU+DhCmBDaLoBeAdLjqgeCM5rZWEL/URjRGTFCp8gEj0EWNgYZhow8KrIS22QOklILJ4OIzwiR8xLrhIJAYA74QQiZ8yHEKOmzqEvOSTyzffzY5Alxj8FaE5zXxOZkkmt47Q2gE0ZEYJXRaEU+tmCd2UsYntgJPQFIR+wxtE2ZLabVEZR2dqq/BJ3CmUwmOB4nKKQkt/9YEe3/SKyJUelYJBWdMWlIk8xBMj5ZHSKRATAhJUFWBe29896L62123F60X3pE6vbhSFgWKb3ZbIHuHTPETWovAS3IIscRpCnaO6E4IkP7aCh+EqFiFiC5MsjCO34RngyLIyb6j8YCg+hkJYLLlBD3Oc0QBRll2GGQBQ6zhPl05f9OKI7Zjz7pEx0wcecejDZG1oZs3TDbBRvP0QJ7NqSDVEynaWCjWCYN7axl77lfKbzxic6Bncr+2PNr6g5ncuwp+oobDAlSUNqF7ecAQWLVr2MGyZVW/eLnRQfU6cZlT+ribEkRSzQaghJPtJjCAVIH2BBszuCewUYut/8jsj632f6jDX37Dw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <pattern patternUnits="userSpaceOnUse" width="13" height="13" x="0" y="0" patternTransform="rotate(45)" id="mx-pattern-zigzag-line-2-000000-0">
+            <path d="M 3.25 0 L 9.75 0 L 3.25 13 L 9.75 13" stroke="#808080" stroke-width="3" fill="none" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </pattern>
+    </defs>
+    <g>
+        <g>
+            <ellipse cx="154.19" cy="280.54" rx="100.95169340463458" ry="52.10358762472174" fill="none" stroke="#000000" stroke-width="4" stroke-dasharray="12 12" transform="rotate(15,154.19,280.54)" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="242.12" y="262.09" width="144.88" height="34.91" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 280px; margin-left: 315px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 25px; font-family: &quot;Times New Roman&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    class C
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="315" y="287" fill="light-dark(#000000, #ffffff)" font-family="&quot;Times New Roman&quot;" font-size="25px" text-anchor="middle">
+                        class C
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <ellipse cx="242.12" cy="166.57" rx="84.66916221033868" ry="68.3859587574473" fill="none" stroke="#000000" stroke-width="4" stroke-dasharray="12 12" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 7 345.02 L 366.01 345.02" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 371.26 345.02 L 364.26 348.52 L 366.01 345.02 L 364.26 341.52 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 7.65 345.67 L 7.01 13.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 7 8.12 L 10.52 15.11 L 7.01 13.37 L 3.52 15.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <ellipse cx="66.27" cy="130.75" rx="13.026024955436721" ry="13.025896906180435" fill="#808080" stroke="none" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <ellipse cx="111.86" cy="104.69" rx="13.026024955436721" ry="13.025896906180435" fill="#808080" stroke="none" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <ellipse cx="85.81" cy="182.85" rx="13.026024955436721" ry="13.025896906180435" fill="#808080" stroke="none" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <ellipse cx="131.4" cy="150.28" rx="13.026024955436721" ry="13.025896906180435" fill="#808080" stroke="none" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <ellipse cx="255.15" cy="150.28" rx="13.026024955436721" ry="13.025896906180435" fill="url(#mx-pattern-zigzag-line-2-000000-0)" stroke="#000000" stroke-width="2" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <ellipse cx="207.39" cy="202.39" rx="13.026024955436721" ry="13.025896906180435" fill="url(#mx-pattern-zigzag-line-2-000000-0)" stroke="#000000" stroke-width="2" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <ellipse cx="258.4" cy="202.39" rx="13.026024955436721" ry="13.025896906180435" fill="url(#mx-pattern-zigzag-line-2-000000-0)" stroke="#000000" stroke-width="2" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <ellipse cx="300.74" cy="189.36" rx="13.026024955436721" ry="13.025896906180435" fill="url(#mx-pattern-zigzag-line-2-000000-0)" stroke="#000000" stroke-width="2" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <ellipse cx="196.53" cy="124.23" rx="13.026024955436721" ry="13.025896906180435" fill="url(#mx-pattern-zigzag-line-2-000000-0)" stroke="#000000" stroke-width="2" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 72.78 249.06 L 103.18 267.51 L 72.78 285.97 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" transform="rotate(-90,87.98,267.51)" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <path d="M 131.4 262.09 L 161.79 280.54 L 131.4 299 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" transform="rotate(-90,146.6,280.54)" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <path d="M 183.5 285.97 L 213.9 304.42 L 183.5 322.88 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" transform="rotate(-90,198.7,304.42)" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <path d="M 163.96 242.55 L 194.36 261 L 163.96 279.46 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" transform="rotate(-90,179.16,261)" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <ellipse cx="97.75" cy="140.52" rx="72.72755383244207" ry="68.3859587574473" fill="none" stroke="#000000" stroke-width="4" stroke-dasharray="12 12" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="42.39" y="46.08" width="134.61" height="20.92" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 57px; margin-left: 110px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 25px; font-family: &quot;Times New Roman&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    class A
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="110" y="64" fill="light-dark(#000000, #ffffff)" font-family="&quot;Times New Roman&quot;" font-size="25px" text-anchor="middle">
+                        class A
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="213.9" y="65.62" width="113.1" height="31.38" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 81px; margin-left: 270px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 25px; font-family: &quot;Times New Roman&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    class B
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="270" y="89" fill="light-dark(#000000, #ffffff)" font-family="&quot;Times New Roman&quot;" font-size="25px" text-anchor="middle">
+                        class B
+                    </text>
+                </switch>
+            </g>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
