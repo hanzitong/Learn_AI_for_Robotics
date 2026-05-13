@@ -48,7 +48,7 @@ lr.predict_proba(X_test).argmax(axis=1), lr.predict(X_test)
 ## Visualization
 from matplotlib.colors import ListedColormap
 import matplotlib.pyplot as plt
-from fig_func import plot_decision_regions
+from ml_lib.fig_func import plot_decision_regions
 
 
 # learning result

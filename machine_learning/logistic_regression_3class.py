@@ -25,10 +25,8 @@ print(lr.intercept_)
 
 
 
-from matplotlib.colors import ListedColormap
 import matplotlib.pyplot as plt
-
-from fig_func import plot_decision_regions
+from ml_lib.fig_func import plot_decision_regions
 
 plot_decision_regions(
     X=np.concatenate([X_train, X_test]),

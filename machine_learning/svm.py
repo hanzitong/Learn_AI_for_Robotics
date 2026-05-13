@@ -9,13 +9,10 @@ X = X[:, [2,3]]
 y = iris.target
 
 from sklearn.model_selection import train_test_split
-
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)
 
 
 from sklearn.svm import SVC
-
-
 # Linear SVM
 model = SVC(kernel='linear', C=1.0, random_state=123)
 # Linear kernel: no feature mapping is apllied  (identity mapping f(x) = x).
@@ -25,7 +22,7 @@ model.fit(X_train, y_train)
 
 
 import matplotlib.pyplot as plt
-from fig_func import plot_decision_regions
+from ml_lib.fig_func import plot_decision_regions
 
 plot_decision_regions(
     X=X_train,
