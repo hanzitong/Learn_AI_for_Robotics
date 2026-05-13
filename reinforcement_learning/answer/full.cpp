@@ -100,7 +100,7 @@ double nachi_machine(bool is_power_on, int index_action, bool& is_power_on_next)
 }
  
 
-int main(int argc, char const *argv[])
+int main()
 {
     double ** Qtable;
     double q_max = -99.;
@@ -144,7 +144,7 @@ int main(int argc, char const *argv[])
     }
 
     // display and free Qtable
-    std::cout << "" << std::endl;
+    std::cout << "=== Qtable ===" << std::endl;
     for (int i = 0; i < num_state; i++)
     {
         for (int j = 0; j < num_action; j++)
