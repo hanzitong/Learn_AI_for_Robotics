@@ -10,8 +10,3 @@ df = pd.DataFrame(iris.data, columns=iris.feature_names)
 df['target_name'] = iris.target
 df.to_csv('iris.csv', index=True)
 
-
-
-
-
-
