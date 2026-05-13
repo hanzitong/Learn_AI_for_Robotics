@@ -1,47 +1,45 @@
 
 #include <iostream>
 #include <cmath>
+#include <vector>
 
 
-int select_action(bool is_power_on, int num_action, double**Qtable)
+std::vector<int> calc_q_max_index(bool is_power_on, int num_action, double** Qtable)
 {
-    double max_val = Qtable[is_power_on][0];
-    int num_max = 1;    // init value = 1
+    double q_max = Qtable[is_power_on][0];
+    std::vector<int> index_actions;
+    index_actions.push_back(0);
 
-    int* index_max = new int[num_action];
-    index_max[0] = 0;   // init value
-
-    int index_action;   // action to return
-
-
-    for (int i = 1; i<num_action; ++i)
+    for (int i = 1; i < num_action; i++)
     {
-        if (Qtable[is_power_on][i] > max_val)
+        if (q_max < Qtable[is_power_on][i])
         {
-            max_val = Qtable[is_power_on][i];   // update 
-            num_max = 1;    // init
-            index_max[0] = i;   // init
+            q_max = Qtable[is_power_on][i];
+            index_actions.clear();
+            index_actions.push_back(i);
         }
-        else if (Qtable[is_power_on][i] == max_val)
+        else if (q_max == Qtable[is_power_on][i])
         {
-            num_max++;
-            index_max[num_max - 1] = i; // push back
+            index_actions.push_back(i);
         }
     }
 
-    index_action = index_max[rand() % num_max];
-    
-
-    return index_action;
+    return index_actions;
 }
 
 
+int select_optimal_action(bool is_power_on, int num_action, double** Qtable)
+{
+    std::vector<int> index_actions = calc_q_max_index(is_power_on, num_action, Qtable);
 
-int main(int argc, char const *argv[])
+    return index_actions[rand() % index_actions.size()];    // index_actions.size() != 0
+}
+
+
+int main()
 {
     bool is_power_on = false;
     int num_action = 10;
-    // double** Qtable = new double[2][10];
     double** Qtable;
     Qtable = new double*[2];
     for (int i = 0; i < 2; i++)
@@ -53,7 +51,7 @@ int main(int argc, char const *argv[])
         }
     }
 
-
+    /* prepare Qtable */
     for (int i = 0; i < 2; i++)
     {
         double constant = i * 5;
@@ -63,10 +61,13 @@ int main(int argc, char const *argv[])
         }
     }
 
-    int res = select_action(is_power_on, num_action, Qtable); // j = 5, 0
+
+    /* test */
+    int res = select_optimal_action(is_power_on, num_action, Qtable); // index: 5
     std::cout << res << std::endl;
 
 
+    /* free Qtable */
     for (int i = 0; i < 2; i++)
     {
         delete[] Qtable[i];
