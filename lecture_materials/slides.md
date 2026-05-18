@@ -685,7 +685,7 @@ $$ Q(s,a) \leftarrow (1-\alpha) Q(s,a) + \alpha \{ r(s,a) + \gamma \max_{a'} Q(s
 
 ---
 # 演習: プログラム設計の方針
-$$ Q(s,a) \leftarrow (1-\alpha) Q(s,a) + \alpha \{ r(s,a) + \gamma \max_{a'} Q(s',a') \} $$
+<!-- $$ Q(s,a) \leftarrow (1-\alpha) Q(s,a) + \alpha \{ r(s,a) + \gamma \max_{a'} Q(s',a') \} $$
 - Q値の更新に必要な関数たち
   - $\max Q(s',a')$を計算する関数。
   - Q-matrixに応じた最適な行動$a$を計算する関数。
@@ -697,5 +697,18 @@ $$ Q(s,a) \leftarrow (1-\alpha) Q(s,a) + \alpha \{ r(s,a) + \gamma \max_{a'} Q(s
   - 方策(Q値テーブル)を保持
 
 - nachi_machine(環境)
+
+
+Q(s,a):更新前のQ値
+r(s,a):得られた報酬
+Q(s',a'):遷移した先の状態の価値。
+
+Q学習は、実際に観測した経験だけを使っているのでモデルフリーの手法
+ -->
+
+
+
+
+
 
 
